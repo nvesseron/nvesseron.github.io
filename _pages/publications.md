@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published Paper
+## Papers
 
 **On the Wasserstein Geodesic Principal Component Analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
-*pending*       
+*under review*       
 [paper](https://arxiv.org/abs/2506.04480?)
 
 **Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**  
@@ -19,7 +19,7 @@ Processing Systems (NeurIPS 2025)*
 
 **On a Neural Implementation of Brenier's Polar Factorization**  
 Nina Vesseron, Marco Cuturi  
-*International Conference on Machine Learning (ICML 2024)*           
+***Spotlight** in International Conference on Machine Learning (ICML 2024)*           
 [paper](https://arxiv.org/abs/2403.03071)
 
 **Deep Neural Networks are Congestion Games: From Loss Landscape to Wardrop Equilibrium and Beyond**  
