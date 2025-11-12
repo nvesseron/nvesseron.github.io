@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Papers
-
 **On the Wasserstein Geodesic Principal Component Analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
 *under review*       
