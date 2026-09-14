@@ -6,7 +6,7 @@ author_profile: true
 
 **On the Wasserstein Geodesic Principal Component Analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
-*under review*       
+*International Conference on Learning Representations (ICLR 2026)*       
 [paper](https://arxiv.org/abs/2506.04480?)
 
 **Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**  
