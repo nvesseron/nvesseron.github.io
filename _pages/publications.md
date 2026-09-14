@@ -4,20 +4,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+**GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation**  
+Nina Vesseron, Élie Michel        
+*under review*           
+[paper](https://arxiv.org/abs/2609.05127)
+
 **On the Wasserstein Geodesic Principal Component Analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
-*International Conference on Learning Representations (ICLR 2026)*       
+*International Conference on Learning Representations (ICLR 2026)* — **Oral Presentation**        
 [paper](https://arxiv.org/abs/2506.04480?)
 
 **Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**  
 Nina Vesseron, Louis Béthune, Marco Cuturi         
-*Advances in Neural Information
-Processing Systems (NeurIPS 2025)*        
+*Neural Information Processing Systems (NeurIPS 2025)* — Poster, with an **Oral Presentation at NeurIPS@Paris**        
 [paper](https://arxiv.org/abs/2503.10576)
 
 **On a Neural Implementation of Brenier's Polar Factorization**  
 Nina Vesseron, Marco Cuturi  
-***Spotlight** in International Conference on Machine Learning (ICML 2024)*           
+*International Conference on Machine Learning (ICML 2024)* — **Spotlight Paper**              
 [paper](https://arxiv.org/abs/2403.03071)
 
 **Deep Neural Networks are Congestion Games: From Loss Landscape to Wardrop Equilibrium and Beyond**  
