@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 =====
-I am a PhD student at CREST, ENSAE – Institut Polytechnique de Paris since October 2022, under the supervision of Marco Cuturi. Currently, I am also a research intern at Adobe Research in Paris, where I work with Elie Michel on computer graphics, focusing on Gaussian splatting.
+I am a PhD student at CREST, ENSAE – Institut Polytechnique de Paris, under the supervision of Marco Cuturi. During my PhD, I completed research internships at Adobe Research Paris in summer 2025, where I worked with Elie Michel on Gaussian splatting and computer graphics, and at Microsoft Research New England in summer 2026, where I worked with David Alvarez-Melis on optimal transport.
 
 Research Interests
 =====
